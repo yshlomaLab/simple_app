@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">intelity</string>
+    <string name="rating">Rating: %s</string>
+</resources>
